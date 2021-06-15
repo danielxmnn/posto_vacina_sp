@@ -5,11 +5,11 @@ Módulos: requests, panda
 
 ```Python 3
 
-import requests                             (pip install request)
-import pandas as pd                         (pip install pandas)
+import requests                    (pip install request)
+import pandas as pd                (pip install pandas)
 
-headers = {.......}                         (header do request)
-body = {.......}                            (body do request)
-response = requests .......                 (fazendo a chamada e salvando na variável)
-with open .......                           (criando e populando arquivos JSON e CSV)
+headers = {.......}                (header do request)
+body = {.......}                   (body do request)
+response = requests .......        (fazendo a chamada e salvando na variável)
+with open .......                  (criando e populando arquivos JSON e CSV)
 ```
